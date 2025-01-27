@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI, python programming, Criminal Investigation, forensic science and cybersecurity 
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on AI, Programming, Investigation and cybersecurity 
-- 📫 How to reach me donfaruk191@gmail.com
+- 📫 How to reach me (source for it)
 - 😄 Pronouns: legend
 - ⚡ Fun fact: Jokes
 
