@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @donfaruk19
-- 👀 I’m interested in AI, python programming, Criminal Investigation, forensic science and cybersecurity 
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on AI, Programming, Investigation and cybersecurity 
-- 📫 How to reach me (source for it)
-- 😄 Pronouns: legend
-- ⚡ Fun fact: Jokes
+- 👋 Hi, I’m donfaruk19
+- 👀 I’m interested in learning
+- 🌱 I’m currently learning
+- 💞️ I’m looking to collaborate with learners 
+- 📫 How to reach me (sourced)
+- 😄 Pronouns: DonFaruk
+- ⚡ Fun fact: Fun to be
 
 <!---
 donfaruk19/donfaruk19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
