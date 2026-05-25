@@ -53,13 +53,13 @@
 
 ## 🧠 Current Focus
 
-```txt
+---
 ✔ Learning New Technologies
 ✔ Building Real Projects
 ✔ Exploring Cybersecurity
 ✔ Contributing to Open Source
 ✔ Growing Every Day
-````
+---
 
 ---
 
@@ -75,4 +75,4 @@
 <p align="center">
   ⭐ Thanks for visiting my profile! ⭐
 </p>
-```
+
