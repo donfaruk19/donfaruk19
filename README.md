@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 - 👀 Passionate about technology, innovation, and continuous learning  
-- 🌱 Currently learning **Software Development, Cybersecurity & Open Source**  
+- 🌱 Currently learning **Software Development, Cybersecurity, AI & Open Source**  
 - 💞️ Open to collaborating with developers, creators, and learners worldwide  
 - ⚡ Fun fact: *Learning is my superpower*  
 - 😄 Pronouns: **DonFaruk**
