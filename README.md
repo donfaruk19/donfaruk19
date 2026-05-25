@@ -1,11 +1,11 @@
-````md id="8e39f1"
+md id="8e39f1"
 # 💫 Hi, I'm DonFaruk19  
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Aspiring+Developer+%F0%9F%9A%80;Cybersecurity+Enthusiast+%F0%9F%94%90;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
----
+
 
 ## 🚀 About Me
 
@@ -15,7 +15,6 @@
 - ⚡ Fun fact: *Learning is my superpower*  
 - 😄 Pronouns: **DonFaruk**
 
----
 
 ## 🌐 Connect With Me
 
@@ -25,7 +24,7 @@
   </a>
 </p>
 
----
+
 
 ## 🛠️ Tech Stack & Tools
 
@@ -33,7 +32,7 @@
   <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode,linux" />
 </p>
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -42,7 +41,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donfaruk19&layout=compact&theme=tokyonight" height="180em"/>
 </p>
 
----
+
 
 ## 🔥 GitHub Streak
 
@@ -50,19 +49,17 @@
   <img src="https://streak-stats.demolab.com?user=donfaruk19&theme=tokyonight&hide_border=false"/>
 </p>
 
----
+
 
 ## 🧠 Current Focus
 
-```txt
+
 ✔ Learning New Technologies
 ✔ Building Real Projects
 ✔ Exploring Cybersecurity
 ✔ Contributing to Open Source
 ✔ Growing Every Day
-````
 
----
 
 ## 🎯 Goals for 2026
 
@@ -71,9 +68,9 @@
 * 🌍 Collaborate on impactful projects
 * 📚 Keep learning and sharing knowledge
 
----
+
 
 <p align="center">
   ⭐ Thanks for visiting my profile! ⭐
 </p>
-```
+
