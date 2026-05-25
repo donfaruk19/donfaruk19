@@ -1,12 +1,23 @@
-- 👋 Hi, I’m donfaruk19
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning
-- 💞️ I’m looking to collaborate with learners 
-- 📫 How to reach me (sourced)
-- 😄 Pronouns: DonFaruk
-- ⚡ Fun fact: Fun to be
+# 👋 Hi, I'm DonFaruk19
 
-<!---
-donfaruk19/donfaruk19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile!
+
+## 🚀 About Me
+- 👀 I’m passionate about learning new technologies and exploring creative ideas
+- 🌱 I’m currently learning software development, cybersecurity, and open-source collaboration
+- 💞️ I’m looking to collaborate with developers, learners, and innovative thinkers
+- 📫 Reach me through my GitHub profile and future social links
+- 😄 Pronouns: Don
+- ⚡ Fun fact: I believe learning never stops and coding should be fun!
+
+## 🛠️ Tech Journey
+I’m building my skills step by step while working on exciting projects and exploring the world of technology.
+
+## 📌 Goals
+- Learn consistently
+- Build impactful projects
+- Contribute to open source
+- Connect with amazing developers worldwide
+
+---
+⭐ Thanks for visiting my profile!
