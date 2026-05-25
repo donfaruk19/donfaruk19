@@ -53,13 +53,11 @@
 
 ## 🧠 Current Focus
 
----
-✔ Learning New Technologies
-✔ Building Real Projects
-✔ Exploring Cybersecurity
-✔ Contributing to Open Source
-✔ Growing Every Day
----
+* ✔ Learning New Technologies
+* ✔ Building Real Projects
+* ✔ Exploring Cybersecurity
+* ✔ Contributing to Open Source
+* ✔ Growing Every Day
 
 ---
 
