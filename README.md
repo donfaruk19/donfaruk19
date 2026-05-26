@@ -37,22 +37,6 @@
 
 ---
 
-## 📊 Quick Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=donfaruk19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donfaruk19&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=donfaruk19&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
 ## 🧠 Current Focus
 
 * ✔ Learning New Technologies
